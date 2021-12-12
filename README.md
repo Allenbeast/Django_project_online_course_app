@@ -28,3 +28,4 @@ PostgreSQL, and MySQL (default is SQLite3)
 -ER Diagram For your reference, we have prepared
 the ER diagram design for the new assesement
 feature.
+  
